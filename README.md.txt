@@ -7,6 +7,8 @@ This contains all Lab work.
 * LAB 3 (Implementation of single layer perceptron.)
 * LAB 4 (Implementation of multi layer perceptron.)
 * LAB 5 (Customer churn prediction using ANN.)
+* LAB 6 (Handwritten digit classification using mnist dataset.)
+
 
 
 
